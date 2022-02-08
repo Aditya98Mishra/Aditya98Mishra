@@ -1,3 +1,5 @@
+<img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
+
 - 👋 Hi, I’m @Aditya98Mishra
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,4 +10,4 @@
 Aditya98Mishra/Aditya98Mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
+
