@@ -1,5 +1,5 @@
 
-<img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
+<img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Aditya Prakash Mishra</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
