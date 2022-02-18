@@ -19,14 +19,6 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, JavaScript, React and MongoDb**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya prakash mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya prakash mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya__prakash_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya__prakash_mishra" height="30" width="40" /></a>
-</p>
-
----
-
 🧰 Toolbox
 
 <h3 align="left">Languages and Tools:</h3>
