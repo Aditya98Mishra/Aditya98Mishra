@@ -6,7 +6,13 @@
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I am a Full stack web developer. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h5 align="center">Team- oriented and hardworking aspiring web
+developer with a keen interest in DSA having
+the ability to work well under pressure.
+Looking forward to securing a challenging
+role which provides me with an environment
+to learn and develop my skills in the field of
+web development..</h4>
 <br>
 
 
